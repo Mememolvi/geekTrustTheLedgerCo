@@ -27,10 +27,8 @@ Internally both the scripts run the following commands
 
 # Example Input Output
 
-SAMPLE INPUT-OUTPUT 1 
-
-INPUT:
-
+SAMPLE INPUT-OUTPUT 1 a <br />
+INPUT:a <br />
 LOAN IDIDI Dale 10000 5 4
 LOAN MBI Harry 2000 2 2
 BALANCE IDIDI Dale 5
