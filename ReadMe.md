@@ -30,6 +30,7 @@ Internally both the scripts run the following commands
 SAMPLE INPUT-OUTPUT 1 
 
 INPUT:
+
 LOAN IDIDI Dale 10000 5 4
 LOAN MBI Harry 2000 2 2
 BALANCE IDIDI Dale 5
